@@ -19,6 +19,11 @@ Não se esqueça de instalar as dependencias do projeto após clonado:
 NPM INSTALL
 ```
 
+## 👩‍💻 Como Utilizar
+
+Abra a aplicação e adicione novos pratos clicando no botao NOVO.
+Após colocar as caracteristicas do prato que deseja implementar no cardápio, basta postar no cardápio clicando no botão POSTAR.
+
 
 ## 🛠️ Construído com
 
