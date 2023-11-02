@@ -30,6 +30,8 @@ Após colocar as caracteristicas do prato que deseja implementar no cardápio, b
 * React Native - Framework utilizado
 * TypeScript - Linguagem utilizada
 
+## 📄 Licença
 
+Este projeto está sob a licença MIT - veja o arquivo [LICENSE.md](https://github.com/maria18-ai/cardapio-online/mit) para detalhes.
 
 
