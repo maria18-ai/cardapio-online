@@ -2,7 +2,7 @@
 
 Um cardápio digital que permite o usúario acrescentar novos pratos ao layout do cardápio. Para estudo de React e TypeScript.
 
-## 🚀 Começando
+## 🚀 Clonar o repositorio
 
 Para clonar o repositorio, basta copiar a URL no botão code do github: 
 
