@@ -2,6 +2,12 @@
 
 Um cardápio digital que permite o usúario acrescentar novos pratos ao layout do cardápio. Para estudo de React e TypeScript.
 
+## 🖱 Ferramentas necessárias para clonagem
+
+```
+NODE JS 
+```
+
 ## 🚀 Clonar o repositorio
 
 Para clonar o repositorio, basta copiar a URL no botão code do github: 
@@ -18,6 +24,10 @@ Não se esqueça de instalar as dependencias do projeto após clonado:
 ```
 NPM INSTALL
 ```
+Após todas as dependencias estarem instaladas, para rodar a aplicação em sua máquina basta inicializar o vit com o comando RUN DEV: 
+
+![npmrun](https://github.com/maria18-ai/cardapio-online/assets/131560480/6a7b4c38-8afc-44d2-8cef-cbbc2cad598b)
+
 
 ## 👩‍💻 Como Utilizar
 
