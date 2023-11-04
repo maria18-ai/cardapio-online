@@ -44,7 +44,7 @@ Após colocar as caracteristicas do prato que deseja implementar no cardápio, b
 
 Licença MIT
 
-Direitos autorais 2023 Maria Eduarda Teodoro 
+Direitos autorais 2023 Maria Eduarda Teodoro Fernandes
 
 A permissão é concedida, gratuitamente, a qualquer pessoa que obtenha uma cópia deste software e arquivos de documentação associados (o "Software"), para tratar o Software sem restrição, incluindo, sem limitação, os direitos de usar, copiar, modificar, mesclar, publicar, distribuir, sublicenciar e/ou vender cópias do Software e permitir que as pessoas a quem o Software seja fornecido o façam, sob as seguintes condições:
 
